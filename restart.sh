@@ -5,6 +5,9 @@ ps -ef | grep node | awk '{print $2}' | xargs kill -9
 echo "==================show the kill result================="
 ps -ef|grep node
 echo "==================generate html================="
+cd /opt/blog/source
+git fetch --all
+git reset --hard origin/master
 cd /opt/blog
 hexo g
 echo "================restart the node================"
