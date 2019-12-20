@@ -8,6 +8,9 @@ git reset --hard origin/master
 cd /opt/auto-public-hexo
 git fetch --all
 git reset --hard origin/master
+# generate html
+cd /opt/blog
+hexo g
 # start nginx
 /usr/sbin/nginx -c /opt/nginx/nginx.conf
 # start auto-publish-server
