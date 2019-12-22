@@ -86,7 +86,7 @@ nickname: Jeremy Bentham
 
 ### this variable is MarkDown form.
 description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
-avatar: /image/avatar.jpg
+avatar: /image/avatar.jpeg
 
 # main menu navigation
 ## links key words should not be changed.
