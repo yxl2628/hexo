@@ -3,9 +3,9 @@ navname: xiaolong's FE Blog
 
 # navigatior items
 nav:
-  Posts: /archives
-  Categories: /category
-  Tags: /tag
+  Posts: /archives/
+  Categories: /category/
+  Tags: /tag/
   Demo: https://demo.yangxl.cn
   About: https://demo.yangxl.cn/resume/
 
@@ -24,7 +24,7 @@ avatar: /image/avatar.jpg
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /archives
+  Blog: /archives/
 #  Category:
 #  Tags: 
 #  Link:
@@ -33,7 +33,7 @@ links:
 #  Trophy:
 #  Gallary:
 #  RSS:
-  AliPay: /2019/10/19/2019/2019-10-19-aliPay/ 
+  AliPay: /2019/10/19/2019/2019-10-19-aliPay/
 #  ZhiHu: 
 #  LinkedIn:
 #  FaceBook:
