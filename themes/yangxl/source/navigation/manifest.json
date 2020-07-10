@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "NewTab",
+  "description": "New Start Page",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
